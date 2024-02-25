@@ -1,0 +1,3 @@
+builds
+terraform.tfstate
+.terraform*
